@@ -1,0 +1,9 @@
+total 28
+-rw-r--r-- 1 spartan spartan   66 Sep  8 15:21 slist
+-rw------- 1 spartan spartan 3714 Sep  1  2000 science.txt.gz
+-rw-r--r-- 1 spartan spartan   39 Sep  8 15:22 names.txt
+-rw-r--r-- 1 spartan spartan   29 Sep  8 15:19 list2
+-rw-r--r-- 1 spartan spartan   37 Sep  8 15:19 list1
+-rw-r--r-- 1 spartan spartan    0 Sep 10 15:20 linux.tutorial.txt
+-rw-rw-rw- 1 spartan spartan   66 Sep  8 15:20 biglist
+drwx------ 2 spartan spartan 4096 Sep  8 15:07 backups
