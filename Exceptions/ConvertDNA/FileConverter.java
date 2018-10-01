@@ -5,9 +5,7 @@ import java.util.*;
 
 /**
  * Converts the file to either fastq or fasta, depending on what the file initially is. 
- * @author Uyen Nguyen
  */
-
 public class FileConverter 
 {
 	private File fastq;
